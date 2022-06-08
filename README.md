@@ -1,15 +1,17 @@
 ## Hi there 👋
-### My name is Saul Njie, and im a newly educated Front-End Developer that ❤️ creating :smiling_face_with_three_hearts:
-### I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	
+#### My name is Saul Njie, and im a newly educated Front-End Developer that ❤️ creating :smiling_face_with_three_hearts:
+#### I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	
 
-- 🏢 I'm currently **looking for employment**
+- 🏢 I'm currently working for **Myself**
 - 🚀 I use daily:
+</br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
   
 - 💻 I work using:
+</br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -18,11 +20,13 @@
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
   
 - ⚙️ I also use and work:
+</br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
  - ⚡️ Fun fact: I love playing drums and enjoy fishing ❤️
+ </br>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
