@@ -1,11 +1,14 @@
 ## Hi there 👋
 <p>
-**My name is Saul Njie**, and im a newly educated Front-End Developer that ❤️ creating :smiling_face_with_three_hearts: </br>
+My name is Saul Njie, and im a newly educated Front-End Developer that ❤️ creating :smiling_face_with_three_hearts: </br>
 I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	</br>
 </p>
 ⚡️ Fun fact: I love playing drums and enjoy fishing ❤️
 
-<h3>🏢 I'm currently working for **Myself**</h3>
+
+
+
+<h4>🏢 I'm currently working for **Myself**</h4
 
 <h3>🚀 I use daily:</h3>
 <p>
@@ -40,7 +43,8 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
 <a href="mailto:saulus92@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 >:bar_chart: My most used languages</h3>
+<h4>:bar_chart: My most used languages</h4>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
 
 
