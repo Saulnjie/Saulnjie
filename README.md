@@ -8,9 +8,9 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
 
 
 
-  <h4>🏢 I'm currently working for **Myself**</h4
+  <h4>🏢 I'm currently working for myself</h4
 
-  <h4>🚀 I use daily:</h4>
+  <h3>🚀 I use daily:</h3>
   <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
