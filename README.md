@@ -1,6 +1,6 @@
-### Hi there 👋
-> My name is Saul Njie, and im a newly educated Front-End Developer :)
-> Im currently working with and learning JavaScript, React and NextJS
+## Hi there 👋
+My name is Saul Njie and I <3 creating things!
+I'm currently looking for work, and always open for cooperation | Buy me a coffee :)
 
 
 
