@@ -31,7 +31,9 @@
 <a href="mailto:saulus92@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
+
+[![saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)(url)
 
 
 <!--
