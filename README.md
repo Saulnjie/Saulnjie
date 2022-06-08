@@ -2,7 +2,7 @@
 My name is Saul Njie, and im a newly educated Front-End Developer :)
 Im currently working with and learning JavaScript, React and NextJS
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+> https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 
 <!--
