@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Saul Njie, and im a newly educated Front-End Developer that <3 creating :)
+### My name is Saul Njie, and im a newly educated Front-End Developer that ❤️ creating :)
 ### I'm currently looking for work and always open for cooperation | Buy me a coffee :)
 
 
