@@ -1,14 +1,17 @@
 ## Hi there 👋
+<p>
 **My name is Saul Njie**, and im a newly educated Front-End Developer that ❤️ creating :smiling_face_with_three_hearts: </br>
-I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	
-
+I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	</br>
+</p>
 ⚡️ Fun fact: I love playing drums and enjoy fishing ❤️
 
-<h3  align="center">🏢 I'm currently working for **Myself**</h3>
+<h3>🏢 I'm currently working for **Myself**</h3>
 
 <h3>🚀 I use daily:</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -26,8 +29,6 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
   
   <h3>⚙️ I also use and work:</h3>
   <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 
@@ -39,6 +40,7 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
 <a href="mailto:saulus92@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h3 >:bar_chart: My most used languages</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
 
 
