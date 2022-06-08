@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is Saul Njie, and im a newly educated Front-End Developer :)
+### Im currently working with and learning JavaScript, React and NextJS
 
 <!--
 **Saulnjie/Saulnjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
