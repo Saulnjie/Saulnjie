@@ -3,8 +3,8 @@
 I'm currently looking for work and always open for cooperation | Buy me a coffee :upside_down_face:	
 <h2  align="center">- 🏢 I'm currently working for **Myself**</h2>
 
-<h2>- 🚀 I use daily:</h2>
-<p align="center">
+<h3>- 🚀 I use daily:</h3>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
