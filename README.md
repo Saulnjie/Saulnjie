@@ -29,9 +29,10 @@
   <a target="_blank" href="https://sleepy-poitras-833471.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.instagram.com/saulsays/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:saulus92@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
+
 
 
 <!--
