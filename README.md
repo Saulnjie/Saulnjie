@@ -51,7 +51,7 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
   <summary>📈 Activity Graph</summary>
   <br/>
 <div align="center">
-<img alt="Aleksander's activity" src="https://activity-graph.herokuapp.com/graph/?username=spettenn&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+<img alt="Saul's activity" src="https://activity-graph.herokuapp.com/graph/?username=Saulnjie&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
 </div>
 </details> 
 
