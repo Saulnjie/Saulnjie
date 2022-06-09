@@ -30,7 +30,7 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
   </p>
   
-  <h4>⚙️ I also use and work:</h4>
+  <h4>⚙️ I also use and work using:</h4>
   <p>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
