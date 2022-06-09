@@ -47,6 +47,14 @@ I'm currently looking for work and always open for cooperation | Buy me a coffee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulnjie)](https://github.com/Saulnjie/github-readme-stats)
 
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+<div align="center">
+<img alt="Aleksander's activity" src="https://activity-graph.herokuapp.com/graph/?username=spettenn&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+</div>
+</details> 
+
 <h4>⚡️ Fun fact: I love playing drums and enjoy fishing ❤️</h4>
 
 <!--
